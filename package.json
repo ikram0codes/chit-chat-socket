@@ -1,0 +1,20 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chit-chat",
+    "socket.io"
+  ],
+  "author": "IKRAM KHAN",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "socket.io": "^4.7.4"
+  }
+}
